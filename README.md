@@ -142,3 +142,5 @@ curl -X POST -vu client:secret http://localhost:8060/uaa/oauth/token -H "Accept:
 ```
 curl -X POST -vu user:password http://localhost:8888/bus/refresh
 ```
+源项目地址
+https://github.com/zhangxd1989/spring-boot-cloud
